@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.mlappinstall
+*.mex*
+*.fig
+*.mat
+*.mdl.autosave
+*.slx.autosave
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.swp
+*~
+
+# Logs and temp
+*.log
+*.tmp
