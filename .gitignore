@@ -1,14 +1,21 @@
-# MATLAB
+# MATLAB geçici / derleme
 *.asv
 *.m~
 *.autosave
 *.slxc
 *.mlappinstall
 *.mex*
-*.fig
-*.mat
 *.mdl.autosave
 *.slx.autosave
+
+# Büyük veri — GitHub'a yüklenmez
+*.mat
+*.bin
+*.dat
+*.zip
+
+# .fig dosyaları; yayın için results/*.png kullanın
+*.fig
 
 # OS / editor
 .DS_Store
@@ -18,6 +25,6 @@ desktop.ini
 *.swp
 *~
 
-# Logs and temp
+# Log / geçici
 *.log
 *.tmp
