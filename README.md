@@ -4,6 +4,22 @@ FMCW (77 GHz otomotiv benzeri) radar simülasyonları ve 28 GHz OFDM tabanlı IS
 
 **GitHub:** https://github.com/Alp2246/matlab-fmcw-isac-examples
 
+## Simülasyon çıktıları (grafikler)
+
+### FMCW Range-Doppler + CFAR
+![FMCW range doppler](results/fmcw_range_doppler.png)
+
+### ISAC OFDM — menzil-Doppler algılama
+![ISAC OFDM sensing](results/isac_ofdm_sensing.png)
+
+### MIMO animasyon (son kare)
+![FMCW MIMO animasyon](results/fmcw_mimo_animasyon.png)
+
+### Kalman çoklu hedef takibi (son kare)
+![FMCW Kalman tracker](results/fmcw_kalman_tracker.png)
+
+Yeniden üretmek için: `export_all_results`
+
 ## Dosyalar
 
 | Betik | Konu |
